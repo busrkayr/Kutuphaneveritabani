@@ -1,0 +1,7 @@
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\bin\Debug\ConsoleApporneksinav4.exe.config
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\bin\Debug\ConsoleApporneksinav4.exe
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\bin\Debug\ConsoleApporneksinav4.pdb
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\obj\Debug\ConsoleApporneksinav4.csproj.AssemblyReference.cache
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\obj\Debug\ConsoleApporneksinav4.csproj.CoreCompileInputs.cache
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\obj\Debug\ConsoleApporneksinav4.exe
+C:\Users\yasminbusra\source\repos\ConsoleApporneksinav4\ConsoleApporneksinav4\obj\Debug\ConsoleApporneksinav4.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AC386-9215-4B6A-A795-B7BB4977511B}|libraryproje\\libraryproje.csproj|C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0AC386-9215-4B6A-A795-B7BB4977511B}|libraryproje\\libraryproje.csproj|solutionrelative:libraryproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0AC386-9215-4B6A-A795-B7BB4977511B}|libraryproje\\libraryproje.csproj|c:\\users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF0AC386-9215-4B6A-A795-B7BB4977511B}|libraryproje\\libraryproje.csproj|solutionrelative:libraryproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\Form1.cs",
+              "RelativeDocumentMoniker": "libraryproje\\Form1.cs",
+              "ToolTip": "C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\Form1.cs",
+              "RelativeToolTip": "libraryproje\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:57:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\Form1.cs",
+              "RelativeDocumentMoniker": "libraryproje\\Form1.cs",
+              "ToolTip": "C:\\Users\\yasminbusra\\source\\repos\\libraryproje\\libraryproje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "libraryproje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:56:40.496Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

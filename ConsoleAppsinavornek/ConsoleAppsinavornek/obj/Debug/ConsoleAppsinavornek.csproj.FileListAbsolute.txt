@@ -1,0 +1,7 @@
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\bin\Debug\ConsoleAppsinavornek.exe.config
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\bin\Debug\ConsoleAppsinavornek.exe
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\bin\Debug\ConsoleAppsinavornek.pdb
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\obj\Debug\ConsoleAppsinavornek.csproj.AssemblyReference.cache
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\obj\Debug\ConsoleAppsinavornek.csproj.CoreCompileInputs.cache
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\obj\Debug\ConsoleAppsinavornek.exe
+C:\Users\yasminbusra\source\repos\ConsoleAppsinavornek\ConsoleAppsinavornek\obj\Debug\ConsoleAppsinavornek.pdb
